@@ -1,7 +1,7 @@
 # Pass-gen
 About Pass-gen tool :
 Pass-gen tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on both rooted Android device and Non-rooted Android device.<br>
-Pass<br>-gen is available for<br>
+Pass-gen is available for<br>
 Termux<br>
 Installation and usage guide<br>
 $ apt-get update -y<br>
