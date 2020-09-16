@@ -19,7 +19,7 @@ $ ls<br>
 $ python Pass-gen.py<br>
 ex:- Enter The Length Of The Password: 8<br>
 
-WOW... you just created a strong password.<br>
+
 
 Subscribe our channel on youtube<br>
 https://www.youtube.com/channel/UCv80Btv_4kn_9b-GVgPIwMg<br>
